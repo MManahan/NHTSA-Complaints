@@ -6,3 +6,10 @@
 
 # DuckDB
 *.duckdb.wal
+*.duckdb 
+
+# VS Code
+*.vscode
+
+# JSON 
+*.json
