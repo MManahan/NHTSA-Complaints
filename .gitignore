@@ -13,3 +13,6 @@
 
 # JSON 
 *.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
